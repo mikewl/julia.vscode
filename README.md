@@ -1,5 +1,5 @@
 # julia.vscode
-This repository contains just the files for adding julia syntax highlighting to Visual Studio code.
+This repository contains just the files for adding julia syntax highlighting to Visual Studio Code.
 
 Installation is performed by cloning the repository into the `.vscode/extensions` folder. First `cd` into the `.vscode/extensions` folder, then clone the repo with:
 
